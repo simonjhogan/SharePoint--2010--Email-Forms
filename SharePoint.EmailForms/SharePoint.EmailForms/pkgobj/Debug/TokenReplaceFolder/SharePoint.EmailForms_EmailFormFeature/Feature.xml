@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Description="Enables complex email forms to be constructed using ASP.NET form controls." Id="b4fd3553-00b2-46f5-94d1-fe02237eedff" Scope="Site" Title=".NET Email Forms">
+  <ElementManifests>
+    <ElementManifest Location="EmailFormWebPart\Elements.xml" />
+    <ElementFile Location="EmailFormWebPart\EmailFormWebPart.webpart" />
+  </ElementManifests>
+</Feature>

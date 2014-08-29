@@ -1,0 +1,5 @@
+c:\users\simonh\documents\visual studio 2010\Projects\SharePoint.EmailForms\SharePoint.EmailForms\bin\Debug\SharePoint.EmailForms.dll
+c:\users\simonh\documents\visual studio 2010\Projects\SharePoint.EmailForms\SharePoint.EmailForms\bin\Debug\SharePoint.EmailForms.pdb
+c:\users\simonh\documents\visual studio 2010\Projects\SharePoint.EmailForms\SharePoint.EmailForms\obj\Debug\ResolveAssemblyReference.cache
+c:\users\simonh\documents\visual studio 2010\Projects\SharePoint.EmailForms\SharePoint.EmailForms\obj\Debug\SharePoint.EmailForms.dll
+c:\users\simonh\documents\visual studio 2010\Projects\SharePoint.EmailForms\SharePoint.EmailForms\obj\Debug\SharePoint.EmailForms.pdb

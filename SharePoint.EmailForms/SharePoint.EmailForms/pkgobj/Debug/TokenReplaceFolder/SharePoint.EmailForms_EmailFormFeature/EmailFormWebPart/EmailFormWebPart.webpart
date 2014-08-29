@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<webParts>
+  <webPart xmlns="http://schemas.microsoft.com/WebPart/v3">
+    <metaData>
+      <type name="SharePoint.EmailForms.EmailFormWebPart, SharePoint.EmailForms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9df98c7b98a62fe4" />
+      <importErrorMessage>$Resources:core,ImportErrorMessage;</importErrorMessage>
+    </metaData>
+    <data>
+      <properties>
+        <property name="Title" type="string">ASP.NET Email Forms</property>
+        <property name="Description" type="string">Email forms generation web part.</property>
+      </properties>
+    </data>
+  </webPart>
+</webParts>

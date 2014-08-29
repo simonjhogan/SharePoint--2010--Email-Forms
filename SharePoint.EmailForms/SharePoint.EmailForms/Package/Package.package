@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" Id="1cb01c53-8402-4b16-99fc-4a67ffb39138" solutionId="1cb01c53-8402-4b16-99fc-4a67ffb39138" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" name="SharePoint.EmailForms">
+    <features>
+        <featureReference itemId="b4fd3553-00b2-46f5-94d1-fe02237eedff" />
+    </features>
+</package>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="1cb01c53-8402-4b16-99fc-4a67ffb39138" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="SharePoint.EmailForms.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="SharePoint.EmailForms, Version=1.0.0.0, Culture=neutral, PublicKeyToken=9df98c7b98a62fe4" Namespace="SharePoint.EmailForms" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\SharePoint.EmailForms\EmailFormWebPart\EmailFormWebPartUserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="SharePoint.EmailForms_EmailFormFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>
